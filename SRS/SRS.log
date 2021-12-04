@@ -1,0 +1,297 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.7)  4 DEC 2021 19:08
+entering extended mode
+**./SRS.tex
+(SRS.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count191
+\calc@Bcount=\count192
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count193
+\calc@Cskip=\skip51
+)
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen141
+\ESO@tempdimb=\dimen142
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\AM@pagewidth=\dimen145
+\AM@pageheight=\dimen146
+\AM@fboxrule=\dimen147
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count194
+\AM@pagebox=\box50
+\AM@global@opts=\toks17
+\AM@pagecnt=\count195
+\AM@toc@title=\toks18
+\c@AM@survey=\count196
+\AM@templatesizebox=\box51
+)
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box52
+) (SRS.aux)
+\openout1 = `SRS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen148
+\scratchbox=\box53
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen149
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.st
+y
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<TitlePage.pdf, id=1, 597.50829pt x 845.0471pt>
+File: TitlePage.pdf Graphic file (type pdf)
+<use TitlePage.pdf>
+Package pdftex.def Info: TitlePage.pdf  used on input line 6.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: TitlePage.pdf Graphic file (type pdf)
+<use TitlePage.pdf>
+Package pdftex.def Info: TitlePage.pdf  used on input line 6.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<TitlePage.pdf, id=4, page=1, 597.50829pt x 845.0471pt>
+File: TitlePage.pdf Graphic file (type pdf)
+<use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: TitlePage.pdf Graphic file (type pdf)
+<use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: TitlePage.pdf Graphic file (type pdf)
+<use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: TitlePage.pdf Graphic file (type pdf)
+<use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: TitlePage.pdf Graphic file (type pdf)
+<use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[1
+
+ <./TitlePage.pdf{C:/Users/Sohaib/AppData/Local/MiKTeX/pdftex/config/pdftex.map
+}>] (SRS.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+ [2
+
+])
+\tf@toc=\write3
+\openout3 = `SRS.toc'.
+
+ [3]
+Chapter 1.
+
+Overfull \hbox (18.43881pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/12 interface de-scrip-tions, pro-gram flows, func-tional re-quire-
+ments and non-functional
+ []
+
+
+Overfull \hbox (18.43973pt too wide) in paragraph at lines 18--18
+[]\OT1/cmr/bx/n/17.28 Intended Au-di-ence and Doc-u-ment overview 
+ []
+
+[4
+
+]
+Overfull \hbox (0.75583pt too wide) in paragraph at lines 28--28
+[]\OT1/cmr/bx/n/17.28 Definitions, Acronyms and Ab-bre-vi-a-tions 
+ []
+
+
+Overfull \hbox (10.67603pt too wide) in paragraph at lines 29--30
+\OT1/cmr/m/it/12 Define all the terms nec-es-sary to prop-erly in-ter-pret the 
+SRS, in-clud-ing acronyms
+ []
+
+[5]
+Overfull \hbox (4.96736pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/bx/n/12 Node JS\OT1/cmr/m/n/12 : A JavaScript tool to ex-e-cute Java
+Script out-side web-browsers. 
+ []
+
+[6]
+Chapter 2.
+[7
+
+] [8] [9] [10]
+Overfull \hbox (3.81674pt too wide) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 Similarly it is as-sumed that fire-base's ser-vices like au-the
+n-ti-ca-tion and database
+ []
+
+[11]
+Chapter 3.
+
+Overfull \hbox (9.819pt too wide) in paragraph at lines 153--154
+[]\OT1/cmr/bx/n/12 Sign Up page: \OT1/cmr/m/n/12 A form for sign-ing up with fi
+elds for $[]$, $[]$,
+ []
+
+[12
+
+] [13] [14] [15] [16]
+Chapter 4.
+[17
+
+] [18] [19]
+Chapter 5.
+[20
+
+]
+Chapter 6.
+[21
+
+] (SRS.aux) ) 
+Here is how much of TeX's memory you used:
+ 2596 strings out of 478927
+ 39107 string characters out of 2852061
+ 347392 words of memory out of 3000000
+ 20450 multiletter control sequences out of 15000+600000
+ 408974 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,17n,80p,917b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Sohaib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1200.pk><C:/Users/Sohaib/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Users/Sohaib/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sohaib/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on SRS.pdf (21 pages, 110329 bytes).
+PDF statistics:
+ 111 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
