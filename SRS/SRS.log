@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.7)  5 DEC 2021 15:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.7)  5 DEC 2021 22:10
 entering extended mode
 **./SRS.tex
 (SRS.tex
@@ -113,20 +113,20 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 ) (SRS.aux)
 \openout1 = `SRS.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 (C:\Users\Sohaib\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
@@ -167,32 +167,32 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 <TitlePage.pdf, id=1, 597.50829pt x 845.0471pt>
 File: TitlePage.pdf Graphic file (type pdf)
 <use TitlePage.pdf>
-Package pdftex.def Info: TitlePage.pdf  used on input line 6.
+Package pdftex.def Info: TitlePage.pdf  used on input line 7.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: TitlePage.pdf Graphic file (type pdf)
 <use TitlePage.pdf>
-Package pdftex.def Info: TitlePage.pdf  used on input line 6.
+Package pdftex.def Info: TitlePage.pdf  used on input line 7.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 <TitlePage.pdf, id=4, page=1, 597.50829pt x 845.0471pt>
 File: TitlePage.pdf Graphic file (type pdf)
 <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: TitlePage.pdf Graphic file (type pdf)
 <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: TitlePage.pdf Graphic file (type pdf)
 <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: TitlePage.pdf Graphic file (type pdf)
 <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: TitlePage.pdf Graphic file (type pdf)
 <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf , page1 used on input line 6.
+Package pdftex.def Info: TitlePage.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [1
@@ -214,13 +214,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [3]
 Chapter 1.
 
-Overfull \hbox (18.43881pt too wide) in paragraph at lines 11--12
+Overfull \hbox (18.43881pt too wide) in paragraph at lines 13--14
 \OT1/cmr/m/n/12 interface de-scrip-tions, pro-gram flows, func-tional re-quire-
 ments and non-functional
  []
 
 
-Overfull \hbox (18.43973pt too wide) in paragraph at lines 18--18
+Overfull \hbox (18.43973pt too wide) in paragraph at lines 19--19
 []\OT1/cmr/bx/n/17.28 Intended Au-di-ence and Doc-u-ment overview 
  []
 
@@ -231,78 +231,113 @@ Overfull \hbox (0.75583pt too wide) in paragraph at lines 28--28
 []\OT1/cmr/bx/n/17.28 Definitions, Acronyms and Ab-bre-vi-a-tions 
  []
 
-
-Overfull \hbox (10.67603pt too wide) in paragraph at lines 29--30
-\OT1/cmr/m/it/12 Define all the terms nec-es-sary to prop-erly in-ter-pret the 
-SRS, in-clud-ing acronyms
- []
-
-[5]
-Overfull \hbox (4.96736pt too wide) in paragraph at lines 38--39
-[]\OT1/cmr/bx/n/12 Node JS\OT1/cmr/m/n/12 : A JavaScript tool to ex-e-cute Java
-Script out-side web-browsers. 
- []
-
-[6]
+[5] [6]
 Chapter 2.
 [7
 
 ] [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
-
- []
-
-[10]
-Overfull \hbox (3.81674pt too wide) in paragraph at lines 135--136
+Overfull \hbox (3.81674pt too wide) in paragraph at lines 120--121
 \OT1/cmr/m/n/12 Similarly it is as-sumed that fire-base's ser-vices like au-the
 n-ti-ca-tion and database
  []
 
-[11]
+[10]
 Chapter 3.
+<signin.jpeg, id=59, 603.25375pt x 358.33875pt>
+File: signin.jpeg Graphic file (type jpg)
+<use signin.jpeg>
+Package pdftex.def Info: signin.jpeg  used on input line 138.
+(pdftex.def)             Requested size: 301.62613pt x 179.16893pt.
 
-Overfull \hbox (9.819pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.819pt too wide) in paragraph at lines 137--139
 []\OT1/cmr/bx/n/12 Sign Up page: \OT1/cmr/m/n/12 A form for sign-ing up with fi
 elds for $[]$, $[]$,
  []
 
-[12
-
-] [13] [14] [15] [16]
-Chapter 4.
-[17
+[11
 
 ]
-Overfull \hbox (0.5029pt too wide) in paragraph at lines 241--242
+<signup.jpeg, id=63, 607.26875pt x 358.33875pt>
+File: signup.jpeg Graphic file (type jpg)
+<use signup.jpeg>
+Package pdftex.def Info: signup.jpeg  used on input line 140.
+(pdftex.def)             Requested size: 303.63364pt x 179.16893pt.
+<Dashboard.jpeg, id=64, 610.28pt x 411.5375pt>
+File: Dashboard.jpeg Graphic file (type jpg)
+<use Dashboard.jpeg>
+Package pdftex.def Info: Dashboard.jpeg  used on input line 147.
+(pdftex.def)             Requested size: 305.13925pt x 205.76825pt.
+ [12 <./signin.jpeg> <./signup.jpeg>]
+<quote1.jpeg, id=68, 607.26875pt x 357.335pt>
+File: quote1.jpeg Graphic file (type jpg)
+<use quote1.jpeg>
+Package pdftex.def Info: quote1.jpeg  used on input line 149.
+(pdftex.def)             Requested size: 303.63364pt x 178.66705pt.
+<buy.jpeg, id=69, 606.265pt x 357.335pt>
+File: buy.jpeg Graphic file (type jpg)
+<use buy.jpeg>
+Package pdftex.def Info: buy.jpeg  used on input line 151.
+(pdftex.def)             Requested size: 303.13176pt x 178.66705pt.
+ [13 <./Dashboard.jpeg> <./quote1.jpeg>]
+<sell.jpeg, id=74, 605.26125pt x 357.335pt>
+File: sell.jpeg Graphic file (type jpg)
+<use sell.jpeg>
+Package pdftex.def Info: sell.jpeg  used on input line 153.
+(pdftex.def)             Requested size: 302.62987pt x 178.66705pt.
+<history.jpeg, id=75, 606.265pt x 357.335pt>
+File: history.jpeg Graphic file (type jpg)
+<use history.jpeg>
+Package pdftex.def Info: history.jpeg  used on input line 155.
+(pdftex.def)             Requested size: 303.13176pt x 178.66705pt.
+ [14 <./buy.jpeg> <./sell.jpeg>]
+<leaderboard.jpeg, id=79, 603.25375pt x 356.33125pt>
+File: leaderboard.jpeg Graphic file (type jpg)
+<use leaderboard.jpeg>
+Package pdftex.def Info: leaderboard.jpeg  used on input line 157.
+(pdftex.def)             Requested size: 301.62613pt x 178.16518pt.
+ [15 <./history.jpeg> <./leaderboard.jpeg>]
+[16]
+<usecase.png, id=86, 480.29437pt x 414.79968pt>
+File: usecase.png Graphic file (type png)
+<use usecase.png>
+Package pdftex.def Info: usecase.png  used on input line 198.
+(pdftex.def)             Requested size: 480.29318pt x 414.79868pt.
+
+Overfull \hbox (90.29318pt too wide) in paragraph at lines 198--200
+[]
+ []
+
+[17 <./usecase.png>] [18]
+Chapter 4.
+[19
+
+]
+Overfull \hbox (0.5029pt too wide) in paragraph at lines 250--251
 \OT1/cmr/m/n/12 Security re-lated to au-then-ti-ca-tion would be sat-is-fied ea
 s-ily as Google's trusted
  []
 
-[18] [19]
+[20] [21]
 Chapter 5.
-[20
-
-]
-Chapter 6.
-[21
+[22
 
 ] (SRS.aux) ) 
 Here is how much of TeX's memory you used:
- 2596 strings out of 478927
- 39107 string characters out of 2852061
+ 2735 strings out of 478927
+ 41411 string characters out of 2852061
  347392 words of memory out of 3000000
- 20450 multiletter control sequences out of 15000+600000
- 408974 words of font info for 45 fonts, out of 8000000 for 9000
+ 20586 multiletter control sequences out of 15000+600000
+ 408627 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,17n,80p,917b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,17n,80p,791b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Sohaib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
 /dpi600\tcrm1200.pk><C:/Users/Sohaib/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb><C:/Users/Sohaib/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sohaib/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on SRS.pdf (21 pages, 110928 bytes).
+Output written on SRS.pdf (22 pages, 364851 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
+ 122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

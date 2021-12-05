@@ -28,16 +28,18 @@
 	\section {Definitions, Acronyms and Abbreviations}
 		
 	\begin{itemize}
-		\item \textbf{Framework / Library (in context of programming languages):} Collection of code that perform some often-required functionality, that can be used by anone.
+		\item \textbf{API}: \textbf{A}pplication \textbf{P}rogramming \textbf{I}terface - A software intermediary that allows two applications to talk to each other. (for example our application will communicate with Alpha Vantage API to get stocks related information)
+		\item \textbf{CSS:} \textbf{C}ascading \textbf{S}tyle \textbf{S}heets - A language for styling user-interfaces made with HTML.
+		\item \textbf{Electron JS}: A JavaScript tool to make desktop applications.
 		\item \textbf{Firebase:} A platform/service developed by Google for creating mobile and web applications. Includes various services and features like authentication, database, analytics, and more.
 		\item \textbf{Firestore:} A cloud database service included in Firebase
-		\item \textbf{SRS:} \textbf{S}oftware \textbf{R}equirements \textbf{S}pecification
+		\item \textbf{Framework / Library (in context of programming languages):} Collection of code that perform some often-required functionality, that can be used by anyone.
 		\item \textbf{HTML}: \textbf{H}yper  \textbf{T}ext \textbf{M}arkup \textbf{L}anguage - A language for making structure of user-interfaces
-		\item \textbf{CSS:} \textbf{C}ascading \textbf{S}tyle \textbf{S}heets - A language for styling user-interfaces made with HTML.
 		\item \textbf{JavaScript (JS for short)}: A programming language, for including logic, interactivity, etc.
-		\item \textbf{Node JS}: A JavaScript tool to execute JavaScript outside web-browsers.
-		\item \textbf{Electron JS}: A JavaScript tool to make desktop applications.
-		\item \textbf{API}: \textbf{A}pplication \textbf{P}rogramming \textbf{I}terface - A software intermediary that allows two applications to talk to each other. (for example our application will communicate with Alpha Vantage API to get stocks related information)
+		\item \textbf{Node JS}: A JavaScript tool to execute JavaScript outside
+		\item \textbf{SRS:} \textbf{S}oftware \textbf{R}equirements \textbf{S}pecification
+		 web-browsers.
+
 		
 	\end{itemize}
 	
@@ -132,20 +134,27 @@
 	\subsubsection{When not signed in}
 	When not signed in, the navigation bar should only have buttons for signing in and signing up.
 	\begin{itemize}
-		\item \textbf{Sign Up page:} A form for signing up with fields for \underline{name}, \underline{email address}, \underline{password}, \underline{confirm password}, and \underline{API key}, followed by a "Sign Up" button. and a simple guide on how to get an Alpha Vantage API.
-		\item \textbf{Sign In page:} A sign in form with fields for \underline{email address}, and \underline{password}.
+		\item \textbf{Sign Up page:} A form for signing up with fields for \underline{name}, \underline{email address}, \underline{password}, \underline{confirm password}, and \underline{API key}, followed by a "Sign Up" button. and a simple guide on how to get an Alpha Vantage API.\\
+		\includegraphics[scale=0.5,keepaspectratio]{signin}
+		\item \textbf{Sign In page:} A sign in form with fields for \underline{email address}, and \underline{password}.\\
+		\includegraphics[scale=0.5,keepaspectratio]{signup}
 	\end{itemize}
 
 	\subsubsection{When signed in}
 	When signed in, all the main features of the applications are to be accessible. The navigation bar in this state should include buttons for dashboard, quote, buy, sell, history, and leaderboard.
 	\begin{itemize}
-		\item \textbf{Dashboard Page:} The main / home screen of the application showing a dashboard summarizing the user's performance. Firstly a table showing all stock holdings and cash would be shown. Next, data of the user's tracked stocks would  be shown.
-		\item \textbf{Quote Page: } A page to get latest information about any stock. An input field for searching stock (that would give autocomplete suggestions) with name of company or symbol of stock should be present. When searched, stock's information should be provided in user friendly manner.
-		\item \textbf{Buy}: A page to buy any stock. Input fields for symbol of stock and amount of stocks would be present.
-		\item \textbf{Sell}: A page to sell any of users stocks. Option to select a stock (drop-down) and specify amount to sell would be given.
-		\item \textbf{History}: A history of user's stock transaction in tabular form should be present.
-		\item \textbf{Leaderboard}: Leaderboard showing a table of all users on the app ranked by their total value.
-		\item=
+		\item \textbf{Dashboard Page:} The main / home screen of the application showing a dashboard summarizing the user's performance. Firstly a table showing all stock holdings and cash would be shown. Next, data of the user's tracked stocks would  be shown.\\
+		\includegraphics[scale=0.5,keepaspectratio]{Dashboard}
+		\item \textbf{Quote Page: } A page to get latest information about any stock. An input field for searching stock (that would give autocomplete suggestions) with name of company or symbol of stock should be present. When searched, stock's information should be provided in user friendly manner.\\
+		\includegraphics[scale=0.5,keepaspectratio]{quote1}
+		\item \textbf{Buy}: A page to buy any stock. Input fields for symbol of stock and amount of stocks would be present.\\
+		\includegraphics[scale=0.5,keepaspectratio]{buy}
+		\item \textbf{Sell}: A page to sell any of users stocks. Option to select a stock (drop-down) and specify amount to sell would be given.\\
+		\includegraphics[scale=0.5,keepaspectratio]{sell}
+		\item \textbf{History}: A history of user's stock transaction in tabular form should be present.\\
+		\includegraphics[scale=0.5,keepaspectratio]{history}
+		\item \textbf{Leaderboard}: Leaderboard showing a table of all users on the app ranked by their total value.\\
+		\includegraphics[scale=0.5,keepaspectratio]{leaderboard}
 	\end{itemize}
 	
 	\subsection {Hardware Interfaces}
