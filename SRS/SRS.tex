@@ -1,11 +1,13 @@
 
 \documentclass[12 pt, a4paper]{report}
 \usepackage{pdfpages}
+\usepackage{graphicx}
 \begin{document}
 	
 	\includepdf{TitlePage}
 	\tableofcontents
 	\chapter{Introduction}
+	\includegraphics{download}
 	Stock Exchange Simulator is a desktop application for simulating a real stock exchange. It will allow its users to "buy" and "sell" stocks at real time prices. This section gives an overview of the project and this SRS document.
 	\section {Document Purpose}
 	The purpose of this SRS is to fully specify all the requirements of the first release of Stock Exchange Simulator (version 1.0) for all stake-holders. The document covers software requirements, hardware requirements, user-interface descriptions, program flows, functional requirements and non-functional requirements.
@@ -64,15 +66,15 @@
 
 	Following are the major functionalities of this project:
 	\begin{itemize}
-		\item User will be able to sign up for a new account.
-		\item User will be able to sign in using an existing account.
-		\item User will be able to view their portfolio including all their stock holdings (and details therof) and cash.
-		\item User will be able to view details of the stocks they have selected to be tracked.
-		\item User will be able to see history of their trading.
-		\item User will be able to find out price of any stock by inputting the stock's symbol or company name.
-		\item User will be able to "buy" any amount of any stock they want (provided they have enough cash).
-		\item User will be able to "sell" any of their stocks.
-		\item User will be able to view a leaderboard of all users of the application. (leaderboard ranks users by their total value)
+		\item Users will be able to sign up for a new account.
+		\item Users will be able to sign in using an existing account.
+		\item Users will be able to view their portfolio including all their stock holdings (and details therof) and cash.
+		\item Users will be able to view details of the stocks they have selected to be tracked.
+		\item Users will be able to see history of their trading.
+		\item Users will be able to find out price of any stock by inputting the stock's symbol or company name.
+		\item Users will be able to "buy" any amount of any stock they want (provided they have enough cash).
+		\item Users will be able to "sell" any of their stocks.
+		\item Users will be able to view a leaderboard of all users of the application. (leaderboard ranks users by their total value)
 	\end{itemize}
 	
 	\section {Users and Characteristics}
@@ -204,6 +206,25 @@
 
 	\subsection {Use Case View}
 	A use case defines a goal-oriented set of interactions between external actors and the system under consideration. Since sometimes we will not be able to specify completely the behaviour of the system by just State Diagrams, we use use-cases to complete what we have already started in section 3.3.1. 
+\includegraphics{usecase}
+The actors are:
+\begin{itemize}
+\item \textbf{Unregistered Users} - Users who have not signed up yet or are signed up but do not sign in
+\item \textbf{Registered Users} - Users who have signed up and are signed in.
+\end{itemize}
+
+The use cases are:
+\begin{itemize}
+\item \textbf{Sign Up} - Users sign up by providing their personal information on a registration page form.
+\item \textbf{Sign In} - Users sign in by entering their username and password.
+\item \textbf{Sign Out} - End signed in session so no one else accesses an account.
+\item \textbf{See Stock Price} - View stock listings.
+\item \textbf{Buy Stock} - Buy stock and add it to account.
+\item \textbf{Sell Stock} - Sell stock already in account.
+\item \textbf{View Dashboard or Portfolio} - Users view their stocks, their valuations and other statistics on a dashboard page.
+\item \textbf{View Transaction History} - Users view their stock buying and selling history.
+\item \textbf{View Leaderboard} - Users see all users along with their valuations and ranked accordingly.
+\end{itemize}
 	
 	TO DO: Provide a use case diagram which will encapsulate the entire system and all possible actors. Do not include detailed use case descriptions (these will be needed when you will be working on the Test Plan), but make sure to include a short description of what every use-case is, who are the actors in your diagram.
 	
