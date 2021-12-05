@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.7)  4 DEC 2021 19:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.7)  5 DEC 2021 15:12
 entering extended mode
 **./SRS.tex
 (SRS.tex
@@ -247,7 +247,12 @@ Script out-side web-browsers.
 Chapter 2.
 [7
 
-] [8] [9] [10]
+] [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+[10]
 Overfull \hbox (3.81674pt too wide) in paragraph at lines 135--136
 \OT1/cmr/m/n/12 Similarly it is as-sumed that fire-base's ser-vices like au-the
 n-ti-ca-tion and database
@@ -256,7 +261,7 @@ n-ti-ca-tion and database
 [11]
 Chapter 3.
 
-Overfull \hbox (9.819pt too wide) in paragraph at lines 153--154
+Overfull \hbox (9.819pt too wide) in paragraph at lines 152--153
 []\OT1/cmr/bx/n/12 Sign Up page: \OT1/cmr/m/n/12 A form for sign-ing up with fi
 elds for $[]$, $[]$,
  []
@@ -267,7 +272,13 @@ elds for $[]$, $[]$,
 Chapter 4.
 [17
 
-] [18] [19]
+]
+Overfull \hbox (0.5029pt too wide) in paragraph at lines 241--242
+\OT1/cmr/m/n/12 Security re-lated to au-then-ti-ca-tion would be sat-is-fied ea
+s-ily as Google's trusted
+ []
+
+[18] [19]
 Chapter 5.
 [20
 
@@ -289,7 +300,7 @@ Here is how much of TeX's memory you used:
 public/amsfonts/cm/cmbx12.pfb><C:/Users/Sohaib/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sohaib/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on SRS.pdf (21 pages, 110329 bytes).
+Output written on SRS.pdf (21 pages, 110928 bytes).
 PDF statistics:
  111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

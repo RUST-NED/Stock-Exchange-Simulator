@@ -45,6 +45,14 @@
 \contentsline {subsection}{\numberline {4.1.4}Stock price quote}{18}{}%
 \contentsline {subsection}{\numberline {4.1.5}Buy/Sell Stocks Transactions}{18}{}%
 \contentsline {section}{\numberline {4.2}Safety and Security Requirements}{18}{}%
+\contentsline {subsection}{\numberline {4.2.1}Safety Requirements}{18}{}%
+\contentsline {subsection}{\numberline {4.2.2}Security Requirements}{18}{}%
 \contentsline {section}{\numberline {4.3}Software Quality Attributes}{18}{}%
+\contentsline {subsection}{\numberline {4.3.1}Readability}{18}{}%
+\contentsline {subsection}{\numberline {4.3.2}Maintainability}{19}{}%
+\contentsline {subsection}{\numberline {4.3.3}Adaptability}{19}{}%
+\contentsline {subsection}{\numberline {4.3.4}Reuseability}{19}{}%
+\contentsline {subsection}{\numberline {4.3.5}Robustness}{19}{}%
+\contentsline {subsection}{\numberline {4.3.6}Usability}{19}{}%
 \contentsline {chapter}{\numberline {5}Other Requirements}{20}{}%
 \contentsline {chapter}{\numberline {6}Appendix A - Data Dictionary}{21}{}%
