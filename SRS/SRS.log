@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.7)  5 DEC 2021 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.7)  6 DEC 2021 14:56
 entering extended mode
 **./SRS.tex
 (SRS.tex
@@ -317,11 +317,7 @@ Overfull \hbox (0.5029pt too wide) in paragraph at lines 250--251
 s-ily as Google's trusted
  []
 
-[20] [21]
-Chapter 5.
-[22
-
-] (SRS.aux) ) 
+[20] [21] (SRS.aux) ) 
 Here is how much of TeX's memory you used:
  2735 strings out of 478927
  41411 string characters out of 2852061
@@ -330,14 +326,14 @@ Here is how much of TeX's memory you used:
  408627 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,17n,80p,791b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Sohaib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\tcrm1200.pk><C:/Users/Sohaib/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb><C:/Users/Sohaib/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sohaib/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on SRS.pdf (22 pages, 364851 bytes).
+ <C:\Users\Sohaib\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
+appen/ec/dpi600\tcrm1200.pk><C:/Users/Sohaib/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Sohaib/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sohaib/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on SRS.pdf (21 pages, 363775 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
