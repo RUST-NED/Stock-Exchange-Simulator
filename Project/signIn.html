@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignIn</title>
+    <link rel="stylesheet" href="signIn.css">
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-analytics.js"></script>
+    <!-- <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script> -->
+    <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-firestore.js"></script> 
+
+
+    <script type="module">
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+            apiKey: "AIzaSyAMja4J9QOY63chgxkDHhxpH8CzyxVXOTs",
+            authDomain: "stonk-exchange-simulator.firebaseapp.com",
+            projectId: "stonk-exchange-simulator",
+            storageBucket: "stonk-exchange-simulator.appspot.com",
+            messagingSenderId: "66819505535",
+            appId: "1:66819505535:web:4fe2c33891823e56b92e4a",
+            measurementId: "G-6627BR1CP4"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+
+    </script>
+
+    <script defer src="signin.js"></script>
+    <script defer src="authstatelistener.js"></script>
+
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo">
+            Stock Exchange Simulator
+        </div>
+        <div class="signButtons">
+            <a href="">Sign In</a>
+            <a href="signUp.html">Sign Up</a>
+        </div>
+    </div>
+    <div class="body">
+        <div class="sidebar">
+            <a href="signUp.html">Sign Up</a>
+            <a href="" class="active">Sign In</a>
+        </div>
+        <div id="signin_error"></div>
+        <div class="form">
+            <div class="mainform">
+                <div class="emailbox">
+                    <div class="email">
+                        <p class="testyle">Email</p>
+                        <input type="text" class="inpstyle" placeholder="Enter email">
+                    </div>
+                </div>
+                <div class="passbox">
+                    <div class="password">
+                        <p class="testyle">Password</p>
+                        <input type="text" class="inpstyle" placeholder="Enter password">
+                    </div>
+                </div>
+                <div class="submit">
+                    <button onclick="signIn()">SignIn</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
