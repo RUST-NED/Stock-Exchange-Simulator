@@ -1,8 +1,32 @@
 function signIn() {
-    event.preventDefault();
+    let uzr = firebase.auth().currentUser;
+    if (uzr) {
+        console.log("User already logged in");
+        window.location.href = "dashboard.html";
+        return;
+    }
+    else
+        {
+            console.log("No user logged in");
+            console.log(uzr);
+        }
+    // event.preventDefault();
+    // if (firebase.auth().currentUser) {
+    //     console.log("Already signed in");
+    //     window.location.href = "dashboard.html";
+    //     return;
+    // }
+    // else
+    // {
+    //     console.log("Not signed in");
+    //     return;
+    // }
+
+
     document.getElementById("signin_error").innerHTML = "";
     email = document.getElementById("email").value;
     password = document.getElementById("password").value;
+
     firebase.auth().signInWithEmailAndPassword(email, password)
         .then((userCredential) => {
             console.log("Signning User In");
@@ -27,7 +51,4 @@ function signIn() {
                 document.getElementById("signin_error").innerHTML = "Error: " + errorMessage;
             }
         });
-
-
-
 }

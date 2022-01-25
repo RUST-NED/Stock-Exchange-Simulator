@@ -1,4 +1,5 @@
 function signUp() {
+    
     event.preventDefault();
     document.getElementById("signup_error").innerHTML = "";
     email = document.getElementById("email").value;
@@ -55,5 +56,45 @@ function signUp() {
             }
         });
     db = null;
+
+
+    // let db = firebase.firestore();
+
+    // let user_names = ["Kamran", "Ali", "Aamir", "Saad", "Talha"];
+    // let symbols = ["AAPL", "MSFT", "GOOG", "FB", "AMZN"];
+    // for (let i=0; i<5; i++) {
+    //     let name = user_names[i];
+    //     db.collection("Users").add({
+    //         uid: i * i * 2339 + "iiaeasfhl" + i,
+    //         email: name + i + "@gmail.com",
+    //         cash: 10000,
+    //         API_Key: "API_Key" + i * 22222 + "iiaeaadsfhl" + i
+    //         })
+    //         .then((docRef) => {
+    //             console.log("User Document ", i + 1,  " written with ID: ", docRef.id);
+    //         })
+    //         .catch((error) => {
+    //             console.error("Error adding document: ", error);
+    //         });
+    //         db.collection("Transactions").add({
+    //             uid: i * i * 2339 + "iiaeasfhl" + i,
+    //             stock_symbol: symbols[Math.floor(Math.random() * symbols.length)],
+    //             num_shares: Math.floor(Math.random() * 100),
+    //             price: Math.floor(Math.random() * 100),
+    //             // random date from 2020-01-01 to 2021-12-31
+    //             date_time: new Date(2020 + Math.floor(Math.random() * 2), Math.floor(Math.random() * 12), Math.floor(Math.random() * 31), Math.floor(Math.random() * 24), Math.floor(Math.random() * 60), Math.floor(Math.random() * 60))
+
+    //         })
+    //         .then((docRef) => {
+    //             console.log("Transactoon Document ", i + 1,  " written with ID: ", docRef.id);
+    //         })
+    //         .catch((error) => {
+    //             console.error("Error adding document: ", error);
+    //         }
+    //     );
+        
+    // }
+
+    // db = null;
 }
 
